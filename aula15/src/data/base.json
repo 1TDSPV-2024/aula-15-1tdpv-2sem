@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"nome": "Mouse",
+		"preco": 100,
+		"qtd": 3
+	},
+	{
+		"id": 2,
+		"nome": "Monitor",
+		"preco": 760.5,
+		"qtd": 1
+	},
+	{
+		"id": 3,
+		"nome": "Headset",
+		"preco": 250,
+		"qtd": 2
+	},
+	{
+		"id": 4,
+		"nome": "Teclado",
+		"preco": 1,
+		"qtd": 1
+	},
+	{
+		"id": 5,
+		"nome": "Cabo LAN",
+		"preco": 5,
+		"qtd": 5
+	},
+    {
+		"id": 6,
+		"nome": "Teste de Rede",
+		"preco": 10,
+		"qtd": 10
+	}
+]

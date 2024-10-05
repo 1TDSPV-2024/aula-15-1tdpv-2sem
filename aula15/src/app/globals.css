@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    padding-left: 10px;
+    font-size: 16px;
+}
+
+@layer components{
+    .cabecalho{
+        @apply bg-slate-400 text-black p-10 m-auto;
+    }
+
+    .cabecalho h1{
+        @apply text-4xl;
+    }
+
+    .menu li{
+        @apply inline mx-10;
+    }
+
+    .menu a:hover{
+        @apply bg-slate-950 text-white rounded-md;
+    }
+
+    .menu{
+        @apply flex justify-end text-3xl ;
+    }
+}
